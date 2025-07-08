@@ -141,5 +141,3 @@ This project is open-source and free to use for educational purposes.
 - Idulsa, Emman Nicholas
 - Valeros, Vladimir II
 
-Dataset Design: [Contributors or health workers you consulted, optional]
-
