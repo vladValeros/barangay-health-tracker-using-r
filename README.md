@@ -9,7 +9,7 @@ An interactive web app built using **R (Shiny)** to help **local health workers*
 
 ## Problem Statement
 
-Many barangay-level health facilities rely on fragmented or manual records, making it difficult to identify health trends, respond to outbreaks, or make data-informed decisions. There's a need for a lightweight, accessible, and visual data tool that can interpret patient-level data in real-time — especially for underserved and low-resource communities.
+Many barangay-level health facilities rely on fragmented or manual records, making it difficult to identify health trends, respond to outbreaks, or make data-informed decisions. There's a need for a lightweight, accessible, and visual data tool that can interpret patient-level data quickly.
 
 ---
 
