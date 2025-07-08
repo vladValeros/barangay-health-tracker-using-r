@@ -103,7 +103,7 @@ rsconnect::deployApp('C:\\path\\to\\your\\project\\folder')
 ```
 Replace the path with the directory that contains your app.R file.
 
-## File Structure
+## Sample File Structure (when hosted locally)
 ```
 barangay-health-tracker/
 ├── app.R
