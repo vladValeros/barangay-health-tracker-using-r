@@ -40,7 +40,8 @@ By empowering barangay health centers with tools to make **data-informed decisio
 ### **Step 1: Install R and RStudio**
 
 - [Download RStudio](https://posit.co/download/rstudio-desktop/)  
-- [Install R 4.4.3 (or latest stable)](https://cran.r-project.org/bin/windows/base/old/4.4.3/)
+- [Install R 4.4.3](https://cran.r-project.org/bin/windows/base/old/4.4.3/)
+**Very Important:** Don't install latest version of R yet unless ShinyApps supports that version
 
 
 
