@@ -1,9 +1,6 @@
-# barangay-health-tracker-using-r
-Programming Languages (PL129) Project
-
 # Barangay Health Tracker – Zamboanga City
 
-An interactive web app built using **R (Shiny)** to help **local health workers** visualize and monitor illness trends in their communities.
+Programming Languages (PL129) Project. An interactive web app built using **R (Shiny)** to help **local health workers** visualize and monitor illness trends in their communities.
 
 ---
 
@@ -11,7 +8,7 @@ An interactive web app built using **R (Shiny)** to help **local health workers*
 
 Many barangay-level health facilities rely on fragmented or manual records, making it difficult to identify health trends, respond to outbreaks, or make data-informed decisions. There's a need for a lightweight, accessible, and visual data tool that can interpret patient-level data quickly.
 
----
+
 
 ## Purpose
 
@@ -22,7 +19,7 @@ This project provides a dashboard for **community-level health surveillance** us
 - Track common illnesses per barangay
 - Simplify patient data reporting using existing tools like Google Forms
 
----
+
 
 ## Sustainable Development Goal (SDG) Alignment
 
@@ -45,7 +42,7 @@ By empowering barangay health centers with tools to make **data-informed decisio
 - [Download RStudio](https://posit.co/download/rstudio-desktop/)  
 - [Install R 4.4.3 (or latest stable)](https://cran.r-project.org/bin/windows/base/old/4.4.3/)
 
----
+
 
 ### **Step 2: Set Up the Patient Data Form**
 
@@ -56,7 +53,7 @@ Once you receive responses:
 1. Open the form’s **linked Google Sheet**
 2. Go to **File > Download > .csv** to export the dataset
 
----
+
 
 ### **Step 3: Prepare Your R Project**
 
@@ -65,7 +62,7 @@ Once you receive responses:
 3. Save it as `app.R`
 4. Copy-paste the complete app code (from this repository)
 
----
+
 
 ### **Step 4: Install Required Packages**
 
